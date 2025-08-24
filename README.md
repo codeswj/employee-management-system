@@ -37,7 +37,7 @@ or
 ---
 
 ## 📸 Demo Screenshot   
-![This is an alt text.](./demo-app.png "This is a sample image.")
+![This is an alt text.](./demo-app.jpg "This is a sample image.")
 
 ---
 
